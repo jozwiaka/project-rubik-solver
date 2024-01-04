@@ -390,7 +390,7 @@ int main(int ac, char** av)
 	  /*std::ofstream file("moves1000.txt");
 	  for (int i = 1; i <= 10000;i++)
 	  {
-		  cube.readFromFile("Files/colors" + std::to_string(i) + ".txt");
+		  cube.readFromFile("files/colors" + std::to_string(i) + ".txt");
 		  cube.convertColorsToNotation();
 		  cube.getPosOri();
 
